@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="length">Length</string>
+    <string name="currency">Currency</string>
+    <string name="time">Time</string>
+    <string name="enter_here_the_kilograms">Enter Here The Kilograms</string>
+    <string name="convert_to_pounds">Convert To Pounds</string>
+    <string name="enter_here_the_dinars">Enter Here The Dinars</string>
+    <string name="temperature">temperature</string>
+    <string name="area">Area</string>
+    <string name="weight_converter">Weight Converter</string>
+    <string name="convert">Convert</string>
+    <string name="example_1000_dinar">Example: 1000 dinar</string>
+    <string name="example_70_kg">Example: 70 kg</string>
+    <string name="example_7_hours">example: 7 Hours</string>
+    <string name="conversion_to_fahrenheit">Conversion To Fahrenheit</string>
+    <string name="temperature_converter">Temperature converter</string>
+    <string name="calendar">Calendar</string>
+    <string name="calendar_converter">Calendar_converter</string>
+    <string name="example_2021">Example: 2021</string>
+</resources>
